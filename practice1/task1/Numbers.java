@@ -1,4 +1,4 @@
-package practice1;
+package practice1.task1;
 
 import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
